@@ -1,0 +1,72 @@
+*{
+	font-family: sans-serif, tahoma;
+}
+.title{
+	font-size: 30px;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.fondomenu{
+	background-color: #2A2929;
+}
+a:link{
+	text-align: center;
+	text-decoration: none;
+	margin-top: 3%;
+	display: inline;
+	color: #CECDCD;
+}
+li{
+	text-align: center;
+	display: inline;
+}
+a:hover{
+	color:#F20C42;
+	text-decoration: none;
+}
+.foto{
+	padding: 2%;
+}
+.boton{
+	border-radius: 10px;
+	background-color:#747373;
+	display: inline-block;
+	padding: 2%;
+	text-align: center;
+	margin-top: 10%;
+}
+.color-text{
+	color: #8D8C8C;
+	margin-top:5%;
+}
+.projectsphoto{
+	padding: 3%;
+	display: inline-block;
+}
+.icono{
+	color: #C6C5C5;
+	display: inline;
+	margin-left: 3%;
+}
+.pictitle{
+	display: inline;
+}
+.twitterbig{
+	font-size: 200px;
+	color: #C6C5C5;
+	margin-left: 5%;
+	margin-top:5%;
+}
+.text{
+	padding: 10%;
+}
+.redes{
+	border: 1px dashed;
+	border-radius: 100%;
+	text-align: left;
+	display: inline;
+	font-size: 30px;
+}
+.logos{
+	display: inline-block;
+}
